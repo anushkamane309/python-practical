@@ -1,0 +1,18 @@
+print("===========Student deatails===========")
+
+Name = input("Enter your name: ")
+
+
+Age = input("Enter your age: ")
+
+ 
+Address = input("Enter your address: ")
+
+
+PRN = input("Enter your PRN: ")VSDANGWETWRS4
+
+print("===========Student deatails===========")
+print("Student Name is: ", Name)
+print("Age is: ", Age)
+print("Address is: ", Address)
+print("PRN is: ", PRN)
